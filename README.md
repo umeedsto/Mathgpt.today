@@ -33,6 +33,14 @@ MathGPT.today is an AI-powered math tutor that helps students learn faster with 
 - Calculator hub for common math topics and exam prep
 - Kid friendly learning experiences with simpler explanations
 
+## How to use MathGPT.today
+1. Open the website and paste your math question, or upload a photo.
+2. Read the step by step solution and try the practice questions to confirm you understand.
+3. Use the calculators for quick checks and exam prep.
+4. For kids, open Kids Mode for simpler explanations and guided practice.
+5. If you want extra practice, use flashcards, worksheets, or games.
+
+
 ## Who it is for
 - Students who want clear step by step help
 - Parents supporting homework at home
