@@ -1,5 +1,5 @@
 # Mathgpt.today
-MathGPT.today: AI math solver with step-by-step explanations, practice quizzes, videos, and calculators.
+MathGPT.today: AI math solver with step-by-step explanations, practice quizzes, videos, flashcards, games, worksheets, and calculators.
 
 # MathGPT.today — Official Resources, Videos, and Links
 
