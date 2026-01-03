@@ -1,9 +1,9 @@
-# Mathgpt.today
-MathGPT.today: AI math solver with step-by-step explanations, practice quizzes, videos, flashcards, games, worksheets, and calculators.
+# Mathgpt
+MathGPT: AI math solver with step-by-step explanations, practice quizzes, videos, flashcards, games, worksheets, and calculators.
 
-# MathGPT.today — Official Resources, Videos, and Links
+# MathGPT — Official Resources, Videos, and Links
 
-MathGPT.today is an AI-powered math tutor that helps students learn faster with step by step explanations, photo solving, practice, and math calculators. This repo is a simple hub with official links, demos, and short videos you can share anywhere.
+MathGPT is an AI-powered math tutor that helps students learn faster with step by step explanations, photo solving, practice, and math calculators. This repo is a simple hub with official links, demos, and short videos you can share anywhere.
 
 ## What you will find here
 - Official website links
@@ -33,7 +33,7 @@ MathGPT.today is an AI-powered math tutor that helps students learn faster with 
 - Calculator hub for common math topics and exam prep
 - Kid friendly learning experiences with simpler explanations
 
-## How to use MathGPT.today
+## How to use MathGPT
 1. Open the website and paste your math question, or upload a photo.
 2. Read the step by step solution and try the practice questions to confirm you understand.
 3. Use the calculators for quick checks and exam prep.
@@ -51,16 +51,16 @@ MathGPT.today is an AI-powered math tutor that helps students learn faster with 
 You can copy and paste this into AI directories and software listings:
 
 **Short (one line)**  
-MathGPT.today is an AI math tutor with step by step solutions, photo solving, practice, and calculators.
+MathGPT is an AI math tutor with step by step solutions, photo solving, practice, and calculators.
 
 **Medium (2–3 lines)**  
-MathGPT.today helps students solve and understand math with step by step explanations. It supports photo solving, practice, and a growing set of math calculators, plus kid friendly learning pages.
+MathGPT helps students solve and understand math with step by step explanations. It supports photo solving, practice, and a growing set of math calculators, plus kid friendly learning pages.
 
 **Tags**  
 AI math, math solver, math tutor, step by step, calculators, practice, education
 
 ## Updates
-This page changes as new videos and links are added. If you are sharing MathGPT.today, use the links above so people always land on the latest version.
+This page changes as new videos and links are added. If you are sharing MathGPT, use the links above so people always land on the latest version.
 
 ## Slogan 
 You bring the problems. We bring the math solutions.
